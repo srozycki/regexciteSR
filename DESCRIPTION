@@ -1,10 +1,11 @@
 Package: regexciteSR
-Title: What the Package Does (One Line, Title Case)
+Title: Make regular expressions more exciting
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Slawek", "Rozycki", , "srozycki@pm.me", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
